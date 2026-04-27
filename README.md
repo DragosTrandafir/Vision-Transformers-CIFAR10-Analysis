@@ -1,6 +1,6 @@
 # Vision Transformers: Implementation, Visualization, and Fine-Tuning
 
-This repository contains a deep dive into the architecture and optimization of Vision Transformers (ViT). Based on the requirements of Laboratory 5, it includes scratch implementations of core components and experimental comparisons of efficient fine-tuning methods on the CIFAR-10 dataset.
+This repository contains a deep dive into the architecture and optimization of Vision Transformers (ViT). Based on the requirements of the pdf file, it includes scratch implementations of core components and experimental comparisons of efficient fine-tuning methods on the CIFAR-10 dataset.
 
 ## Topics Covered
 
